@@ -1,4 +1,4 @@
-# FAML
+# Non-Existent Relationship: Fact-Aware Multi-Level Machine-Generated Text Detection
 
 ## Environment Setup
 ```bash
@@ -27,4 +27,5 @@ python3 data_ready.py
 After processing all the data in the three datasets, you can proceed with training and testing.
 ```bash
 python3 main.py
+
 ```
